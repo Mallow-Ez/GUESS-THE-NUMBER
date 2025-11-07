@@ -18,7 +18,6 @@ A Simple console-based number guessing game written in Python.
 ------------------------------ HOW TO PLAY ------------------------------
 
 1. Run the script:
-   '''bash
    python Guess_The_Number.py
 2. Choose a difficulty level.
 3. Keep guessing until you find the correct number or run out of attempts.
